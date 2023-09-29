@@ -87,16 +87,16 @@ header span {
 /*Main*/
 .section-1 {
   height: 628px;
-  background-image: url('/images/main-photo/main-photo.jpg') ;
+  background-image: url('/images/main-photo/crossfit-main.jpg') ;
   background-repeat: no-repeat;
- 
-  /*margin-bottom: var(--padding);*/
+  background-size: cover;
+  margin-bottom: var(--padding);
 }
 
 
 .title {
-  font-style: 900;
-  color: var(--color4);
+  font-weight: 900;
+  color: white;
   font-size: 44px;
   line-height: 1.35;
   text-align: center;
